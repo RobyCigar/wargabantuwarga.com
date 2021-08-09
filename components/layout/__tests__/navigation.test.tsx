@@ -20,7 +20,7 @@ describe("Navigation", () => {
             class="flex items-center justify-evenly w-full"
           >
             <li
-              class="relative p-4"
+              class="relative"
             >
               <a
                 class="inline-flex flex-col items-center justify-center text-center h-12 px-2 rounded-md text-gray-600 hover:text-blue-600"
@@ -49,7 +49,7 @@ describe("Navigation", () => {
               </a>
             </li>
             <li
-              class="relative p-4"
+              class="relative"
             >
               <a
                 class="inline-flex flex-col items-center justify-center text-center h-12 px-2 rounded-md text-gray-600 hover:text-blue-600"
@@ -80,7 +80,7 @@ describe("Navigation", () => {
               </a>
             </li>
             <li
-              class="relative p-4"
+              class="relative"
             >
               <a
                 class="inline-flex flex-col items-center justify-center text-center h-12 px-2 rounded-md text-gray-600 hover:text-blue-600"
@@ -109,7 +109,7 @@ describe("Navigation", () => {
               </a>
             </li>
             <li
-              class="relative p-4"
+              class="relative"
             >
               <a
                 class="inline-flex flex-col items-center justify-center text-center h-12 px-2 rounded-md text-gray-600 hover:text-blue-600"

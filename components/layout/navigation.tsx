@@ -38,7 +38,7 @@ export function Navigation() {
               : router.asPath.startsWith(item.href);
 
             return (
-              <li key={item.name} className="relative p-4">
+              <li key={item.name} className="relative">
                 {item.external ? (
                   <a
                     className={clsx(...navigationClasses(isActive))}
